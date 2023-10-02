@@ -1,0 +1,15 @@
+C:\Users\joack\Cursos_Projetos\FundamentosNET\bin\Debug\net7.0\FundamentosNET.exe
+C:\Users\joack\Cursos_Projetos\FundamentosNET\bin\Debug\net7.0\FundamentosNET.deps.json
+C:\Users\joack\Cursos_Projetos\FundamentosNET\bin\Debug\net7.0\FundamentosNET.runtimeconfig.json
+C:\Users\joack\Cursos_Projetos\FundamentosNET\bin\Debug\net7.0\FundamentosNET.dll
+C:\Users\joack\Cursos_Projetos\FundamentosNET\bin\Debug\net7.0\FundamentosNET.pdb
+C:\Users\joack\Cursos_Projetos\FundamentosNET\obj\Debug\net7.0\FundamentosNET.csproj.AssemblyReference.cache
+C:\Users\joack\Cursos_Projetos\FundamentosNET\obj\Debug\net7.0\FundamentosNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joack\Cursos_Projetos\FundamentosNET\obj\Debug\net7.0\FundamentosNET.AssemblyInfoInputs.cache
+C:\Users\joack\Cursos_Projetos\FundamentosNET\obj\Debug\net7.0\FundamentosNET.AssemblyInfo.cs
+C:\Users\joack\Cursos_Projetos\FundamentosNET\obj\Debug\net7.0\FundamentosNET.csproj.CoreCompileInputs.cache
+C:\Users\joack\Cursos_Projetos\FundamentosNET\obj\Debug\net7.0\FundamentosNET.dll
+C:\Users\joack\Cursos_Projetos\FundamentosNET\obj\Debug\net7.0\refint\FundamentosNET.dll
+C:\Users\joack\Cursos_Projetos\FundamentosNET\obj\Debug\net7.0\FundamentosNET.pdb
+C:\Users\joack\Cursos_Projetos\FundamentosNET\obj\Debug\net7.0\FundamentosNET.genruntimeconfig.cache
+C:\Users\joack\Cursos_Projetos\FundamentosNET\obj\Debug\net7.0\ref\FundamentosNET.dll
