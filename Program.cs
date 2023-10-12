@@ -15,42 +15,42 @@
 // calc.RaizQuadrada(25);
 // System.Console.WriteLine(calc);
 
-string opcao;
-bool exibirMenu = true;
+// string opcao;
+// bool exibirMenu = true;
 
-while(true)
-{
-    System.Console.WriteLine("Digite a sua opção: ");
-    System.Console.WriteLine("1 - Cadastrar cliente");
-    System.Console.WriteLine("2 - Buscar cliente");
-    System.Console.WriteLine("3 - Apagar cliente");
-    System.Console.WriteLine("4 - Encerrar");
+// while(true)
+// {
+//     System.Console.WriteLine("Digite a sua opção: ");
+//     System.Console.WriteLine("1 - Cadastrar cliente");
+//     System.Console.WriteLine("2 - Buscar cliente");
+//     System.Console.WriteLine("3 - Apagar cliente");
+//     System.Console.WriteLine("4 - Encerrar");
 
-    opcao = Console.ReadLine();
+//     opcao = Console.ReadLine();
 
-    switch(opcao)
-    {
-        case "1":
-            System.Console.WriteLine("Cadastro de cliente");
-            break;
+//     switch(opcao)
+//     {
+//         case "1":
+//             System.Console.WriteLine("Cadastro de cliente");
+//             break;
         
-        case "2":
-            System.Console.WriteLine("Busca de cliente");
-            break;
+//         case "2":
+//             System.Console.WriteLine("Busca de cliente");
+//             break;
         
-        case "3":
-            System.Console.WriteLine("Apagar cliente");
-            break;
+//         case "3":
+//             System.Console.WriteLine("Apagar cliente");
+//             break;
         
-        case "4":
-            System.Console.WriteLine("Encerrar");
-            exibirMenu = false;
-            break;
-        default:
-            System.Console.WriteLine("Opção Inválida");
-            break;
-    }
-}
+//         case "4":
+//             System.Console.WriteLine("Encerrar");
+//             exibirMenu = false;
+//             break;
+//         default:
+//             System.Console.WriteLine("Opção Inválida");
+//             break;
+//     }
+// }
 
 
 
