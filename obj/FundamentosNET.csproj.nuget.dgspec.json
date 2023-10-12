@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joack\\Cursos_Projetos\\FundamentosNET\\FundamentosNET.csproj": {}
+    "c:\\Users\\joack\\Cursos_Projetos\\FundamentosNET\\FundamentosNET.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joack\\Cursos_Projetos\\FundamentosNET\\FundamentosNET.csproj": {
+    "c:\\Users\\joack\\Cursos_Projetos\\FundamentosNET\\FundamentosNET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joack\\Cursos_Projetos\\FundamentosNET\\FundamentosNET.csproj",
+        "projectUniqueName": "c:\\Users\\joack\\Cursos_Projetos\\FundamentosNET\\FundamentosNET.csproj",
         "projectName": "FundamentosNET",
-        "projectPath": "C:\\Users\\joack\\Cursos_Projetos\\FundamentosNET\\FundamentosNET.csproj",
+        "projectPath": "c:\\Users\\joack\\Cursos_Projetos\\FundamentosNET\\FundamentosNET.csproj",
         "packagesPath": "C:\\Users\\joack\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joack\\Cursos_Projetos\\FundamentosNET\\obj\\",
+        "outputPath": "c:\\Users\\joack\\Cursos_Projetos\\FundamentosNET\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
